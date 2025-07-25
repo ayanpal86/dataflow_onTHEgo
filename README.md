@@ -1,6 +1,4 @@
 # dataflow_onTHEgo
-DataFlow is a browser-based data cleaning tool built with React &amp; TypeScript. Upload CSV/Excel files, remove duplicates/nulls, preview data, and download the cleaned version — all in one click. Fast, simple, and perfect for analysts and learners. 
-# DataFlow
 
 **DataFlow** is a browser-based, one-click data cleaning SaaS tool built using React, TypeScript, and Tailwind CSS. It simplifies the process of uploading, cleaning, previewing, and downloading datasets — perfect for analysts, students, and developers who want quick results without writing code.
 
