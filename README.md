@@ -28,12 +28,9 @@ Check it out here: [https://dataflow-onthego.netlify.app/](https://dataflow-onth
 
 ---
 
-## 🖼️ Screenshots
 
-![Home UI](https://dataflow-onthego.netlify.app/screenshot-home.png)
-![Upload & Preview](https://dataflow-onthego.netlify.app/screenshot-preview.png)
+## 👋 Do check it out and feel free to suggest any improvements
 
----
 
 ## 🧑‍💻 How to Run Locally
 
@@ -42,3 +39,6 @@ git clone https://github.com/your-username/dataflow.git
 cd dataflow
 npm install
 npm start
+
+
+
